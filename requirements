@@ -9,4 +9,5 @@ zipfile
 seaborn
 scipy
 pandas
-MinMaxScaler
+minmaxscaler
+fiona
