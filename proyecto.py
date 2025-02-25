@@ -13,15 +13,13 @@ Original file is located at
 # %pip install rasterio fiona
 # !pip install earthpy
 
-import os
-import rasterio
-import rasterio.plot
-import matplotlib.pyplot as plt
-import geopandas as gpd
-import earthpy as et
-import numpy as np
-import requests
-from matplotlib import pyplot
+os
+rasterio
+matplotlib
+geopandas
+earthpy
+numpy
+requests
 
 url_wind = "https://raw.githubusercontent.com/JulianaTQ/Project_Data_Analyst/main/Wind_Average.tif"
 url_solar = "https://raw.githubusercontent.com/JulianaTQ/Project_Data_Analyst/main/Solar_radiation_average.tif"
