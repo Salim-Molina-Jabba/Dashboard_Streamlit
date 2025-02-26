@@ -1,3 +1,0 @@
-git add proyecto_talento_tech.py
-git commit -m "Corrigiendo importación de rasterio"
-git push origin main
