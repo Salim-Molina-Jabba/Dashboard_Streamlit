@@ -13,7 +13,7 @@ Original file is located at
 
 import os
 import rasterio
-#import rasterio.plot
+import rasterio.plot
 import matplotlib.pyplot as plt
 import geopandas as gpd
 import earthpy as et
